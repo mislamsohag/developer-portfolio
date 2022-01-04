@@ -1,3 +1,37 @@
-p{
-    color: red;
+*{
+    margin: 0;
+    
+}
+body {
+    font-family: 'Poppins', sans-serif;
+    
+}
+h1 {
+    font-size: 50px;
+}
+.sohag{
+    color: darkgoldenrod;
+    font-family: 'Poppins', sans-serif;
+}
+.header-section {
+    display: flex;
+    padding: 2%;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.half-width {
+    width: 50%;
+}
+.half-width img {
+    width: 60%;    
+}
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 5px 10px;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+    border-radius: 10%;
+
 }
