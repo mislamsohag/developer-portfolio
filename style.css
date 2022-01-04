@@ -10,7 +10,7 @@ h1 {
     color: darkgoldenrod;
     font-family: 'Poppins', sans-serif;
 }
-section {
+.flexible-container {
     display: flex;
     margin-bottom: 10px;
     padding: 2%;
